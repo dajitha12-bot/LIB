@@ -1,0 +1,24 @@
+[
+  {
+    "transactionId": "T001",
+    "studentId": "ST101",
+    "studentName": "Ajitha",
+    "bookId": "B001",
+    "bookName": "React Basics",
+    "fineAmount": 20,
+    "paymentStatus": "Paid",
+    "paymentMethod": "UPI",
+    "paymentDate": "2026-08-18"
+  },
+  {
+    "transactionId": "T002",
+    "studentId": "ST105",
+    "studentName": "Rahul",
+    "bookId": "B002",
+    "bookName": "Python Programming",
+    "fineAmount": 50,
+    "paymentStatus": "Unpaid",
+    "paymentMethod": "-",
+    "paymentDate": "-"
+  }
+]

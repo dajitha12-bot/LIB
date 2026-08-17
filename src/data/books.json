@@ -1,0 +1,101 @@
+[
+  {
+    "id": "B001",
+    "name": "React Basics",
+    "author": "John Smith",
+    "category": "Programming",
+    "status": "Available",
+    "studentId": "",
+    "studentName": "",
+    "issueDate": "",
+    "dueDate": ""
+  },
+  {
+    "id": "B002",
+    "name": "Python Programming",
+    "author": "Mark Lee",
+    "category": "Programming",
+    "status": "Issued",
+    "studentId": "ST101",
+    "studentName": "Ajitha",
+    "issueDate": "2026-08-10",
+    "dueDate": "2026-08-17"
+  },
+  {
+    "id": "B003",
+    "name": "Database Systems",
+    "author": "David Kumar",
+    "category": "Database",
+    "status": "Available",
+    "studentId": "",
+    "studentName": "",
+    "issueDate": "",
+    "dueDate": ""
+  },
+  {
+    "id": "B004",
+    "name": "Artificial Intelligence",
+    "author": "Andrew Thomas",
+    "category": "AI",
+    "status": "Available",
+    "studentId": "",
+    "studentName": "",
+    "issueDate": "",
+    "dueDate": ""
+  },
+  {
+    "id": "B005",
+    "name": "Machine Learning Basics",
+    "author": "Sarah Wilson",
+    "category": "AI",
+    "status": "Available",
+    "studentId": "",
+    "studentName": "",
+    "issueDate": "",
+    "dueDate": ""
+  },
+  {
+    "id": "B006",
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Novel",
+    "status": "Available",
+    "studentId": "",
+    "studentName": "",
+    "issueDate": "",
+    "dueDate": ""
+  },
+  {
+    "id": "B007",
+    "name": "Computer Networks",
+    "author": "James Brown",
+    "category": "Science",
+    "status": "Available",
+    "studentId": "",
+    "studentName": "",
+    "issueDate": "",
+    "dueDate": ""
+  },
+  {
+    "id": "B008",
+    "name": "Data Structures",
+    "author": "Robert Clark",
+    "category": "Programming",
+    "status": "Available",
+    "studentId": "",
+    "studentName": "",
+    "issueDate": "",
+    "dueDate": ""
+  },
+  {
+    "id": "B020",
+    "name": "PYTHON",
+    "author": "AUTHOR",
+    "category": "Programming",
+    "status": "Available",
+    "studentId": "",
+    "studentName": "",
+    "issueDate": "",
+    "dueDate": ""
+  }
+]
